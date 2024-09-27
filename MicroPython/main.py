@@ -7,7 +7,7 @@ This module turns an LED on a breadboard on and off.
 from microbit import *
 
 
-#setup
+# setup
 display.clear()
 display.show(Image.HAPPY)
 
